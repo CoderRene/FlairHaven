@@ -1,4 +1,4 @@
-#  <img width="50" height="50" src="https://github.com/DareAngeL/FlairHaven/assets/45682972/4e1ee77d-f637-4eff-8b0f-a6f2e220b1df"/> FlairHaven
+# FlairHaven
 ![ReactJS](https://img.shields.io/badge/18.2.0-React.js-brightgreen)
 ![Bootstrap](https://img.shields.io/badge/5.2.3-Bootstrap-9cf)
 ![ReactBootstrap](https://img.shields.io/badge/2.7.2-react--bootstrap-informational)
